@@ -432,8 +432,8 @@ footer {
   margin-bottom: 30px;
   /* правий margin я поставив вище в усіх flex>li */
 }
-.work li:hover,
-.work li:focus {
+.work a:hover,
+.work a:focus {
   box-shadow: 1px 4px 6px rgba(0, 0, 0, 0.16), 0px 4px 4px rgba(0, 0, 0, 0.06),
     0px 1px 1px rgba(0, 0, 0, 0.12);
 }
