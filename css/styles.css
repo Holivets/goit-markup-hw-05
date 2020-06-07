@@ -313,9 +313,8 @@ nav {
   border-radius: 4px;
   padding: 20px 0px;
 }
-
-.clients .icon:hover,
-.clients .icon:focus {
+.clients-link:hover .icon,
+.clients-link:focus .icon {
   fill: var(--accent-color);
   border-color: var(--accent-color);
 }
