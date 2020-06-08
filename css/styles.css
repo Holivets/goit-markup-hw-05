@@ -291,6 +291,9 @@ nav {
   justify-content: space-evenly;
   margin-bottom: 24px;
 }
+.contacts-flex li:not(:last-child) {
+  margin-right: 10px;
+}
 .contacts-flex a {
   display: flex;
   align-items: center;
